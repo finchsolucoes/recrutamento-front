@@ -11,6 +11,17 @@ Quando uma das séries é clicada, o usuário é levado à página de detalhe (d
 Ao clicar no logo situado na Nav Bar, o usuário é levado de volta pra tela principal.
 
 
+# Regras
+
+* É permitido o uso de bibliotecas externas, assim como gerenciadores de dependências. No entanto, você precisa justificar o porquê de estar usando aquela biblioteca
+
+* Você deve incluir todas as instruções necessárias para executar o projeto e os testes (se houver)
+
+* Na entrevista você será questionado sobre o seu código - o que o levou a tomar as decisões que tomou
+
+* **Importante**: Caso tenha problemas em utilizar a API do Trakt para obter as imagens das séries, favor utilizar o serviço [lorempixel](http://lorempixel.com) para gerar thumbnails e as demais imagens de maneira dinâmica
+
+
 # Requisitos
 
 * Não pode ter erros / warnings no seu código JS (OK se for da library)
